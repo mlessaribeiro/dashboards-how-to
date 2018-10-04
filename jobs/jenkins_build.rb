@@ -11,8 +11,7 @@ JENKINS_AUTH = {
 
 job_mapping = {
   'bigProject' => { :job => 'build-big-project' },
-  'problemJob' => { :job => 'build-with-problems' }
-}
+ }
 
 def get_number_of_failing_tests(job_name)
   info = get_json_for_job(job_name, 'lastCompletedBuild')

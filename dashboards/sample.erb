@@ -1,32 +1,20 @@
-<script type='text/javascript'>
- $(function() {
-   Dashing.gridsterLayout('[{"col":1,"row":3,"size_x":1,"size_y":1},{"col":2,"row":3,"size_x":1,"size_y":1},{"col":1,"row":1,"size_x":1,"size_y":1},{"col":2,"row":1,"size_x":1,"size_y":1},{"col":1,"row":2,"size_x":1,"size_y":1},{"col":2,"row":2,"size_x":1,"size_y":1},{"col":3,"row":1,"size_x":1,"size_y":1}]')
- });
- </script>
- 
 <% content_for :title do %>My super sweet dashboard<% end %>
 <div class="gridster">
   <ul>
     <li data-row="1" data-col="1" data-sizex="1" data-sizey="1">
-      <div data-id="bigProject" data-view="JenkinsBuild" data-title="Big Project" data-description="" data-min="100" data-max="100"></div>
+      <div data-id="chuck" data-view="Text" data-title="Team Facts" data-moreinfo="Team Member Facts.">
     </li>
     <li data-row="1" data-col="1" data-sizex="1" data-sizey="1">
-      <div data-id="problemJob" data-view="JenkinsBuild" data-title="Problem Job" data-description="" data-min="100" data-max="100"></div>
-    </li>    
-    <li data-row="1" data-col="2" data-sizex="1" data-sizey="1">
       <div data-id="jiraAllIssues" data-view="Number" data-title="All Issues"></div>
     </li>
-    <li data-row="1" data-col="2" data-sizex="1" data-sizey="1">
+    <li data-row="1" data-col="1" data-sizex="1" data-sizey="1">
       <div data-id="jiraInProgressIssues" data-view="Number" data-title="Open Issues"></div>
     </li>
-    <li data-row="1" data-col="2" data-sizex="1" data-sizey="1">
-      <div data-id="jiraTodoIssues" data-view="Number" data-title="Doing Issues"></div>
-    </li>
-    <li data-row="1" data-col="2" data-sizex="1" data-sizey="1">
-      <div data-id="jiraDoneIssues" data-view="Number" data-title="Done Issues"></div>
-    </li>
-    <li data-row="1" data-col="2" data-sizex="1" data-sizey="1">
-      <div data-id="jiraBugToDoIssues" data-view="Number" data-title="Bugs"></div>
-    </li>
+    <li data-row="2" data-col="3" data-sizex="1.5" data-sizey="1">
+      <div data-id="jenkinsBuildStatus" data-view="JenkinsBuildStatus" data-title="Jenkins"></div>
+    </li>        
+    <li data-row="2" data-col="1" data-sizex="2" data-sizey="1">
+      <div data-id="bigProject" data-view="JenkinsBuild" data-title="Big Project" data-description="" data-min="100" data-max="100"></div>
+    </li>    
   </ul>
 </div>
