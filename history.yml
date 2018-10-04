@@ -1,0 +1,20 @@
+---
+convergence: "data: {\"points\":[{\"x\":11141,\"y\":11},{\"x\":11142,\"y\":9},{\"x\":11143,\"y\":6},{\"x\":11144,\"y\":33},{\"x\":11145,\"y\":29},{\"x\":11146,\"y\":14},{\"x\":11147,\"y\":46},{\"x\":11148,\"y\":14},{\"x\":11149,\"y\":36},{\"x\":11150,\"y\":39}],\"id\":\"convergence\",\"updatedAt\":1538602611}\n\n"
+valuation: "data: {\"current\":34,\"last\":18,\"id\":\"valuation\",\"updatedAt\":1538602611}\n\n"
+karma: "data: {\"current\":170815,\"last\":75021,\"id\":\"karma\",\"updatedAt\":1538602611}\n\n"
+synergy: "data: {\"value\":6,\"id\":\"synergy\",\"updatedAt\":1538602611}\n\n"
+buzzwords: "data: {\"items\":[{\"label\":\"Synergy\",\"value\":17},{\"label\":\"Web
+  2.0\",\"value\":11},{\"label\":\"Paradigm shift\",\"value\":29},{\"label\":\"Enterprise\",\"value\":20},{\"label\":\"Streamlininess\",\"value\":1},{\"label\":\"Pivoting\",\"value\":9},{\"label\":\"Exit
+  strategy\",\"value\":8},{\"label\":\"Leverage\",\"value\":0},{\"label\":\"Turn-key\",\"value\":5}],\"id\":\"buzzwords\",\"updatedAt\":1538602610}\n\n"
+chuck: "data: {\"title\":\"Chuck Norris Facts\",\"text\":\"When Chuck Norris break
+  the build, you can't fix it, because there is not a single line of code left.\",\"id\":\"chuck\",\"updatedAt\":1538634548}\n\n"
+jenkinsBuildStatus: "data: {\"failedJobs\":[],\"succeededJobs\":[],\"failed\":false,\"id\":\"jenkinsBuildStatus\",\"updatedAt\":1537557441}\n\n"
+job1: "data: {\"currentResult\":\"SUCCESS\",\"lastResult\":\"SUCCESS\",\"timestamp\":1538576439179,\"value\":null,\"id\":\"job1\",\"updatedAt\":1538602611}\n\n"
+jira: "data: {\"current\":8,\"id\":\"jira\",\"updatedAt\":1538579807}\n\n"
+jiraTodoIssues: "data: {\"current\":8,\"id\":\"jiraTodoIssues\",\"updatedAt\":1538634568}\n\n"
+jiraAllIssues: "data: {\"current\":28,\"id\":\"jiraAllIssues\",\"updatedAt\":1538634568}\n\n"
+jiraInProgressIssues: "data: {\"current\":11,\"id\":\"jiraInProgressIssues\",\"updatedAt\":1538634568}\n\n"
+jiraDoneIssues: "data: {\"current\":9,\"id\":\"jiraDoneIssues\",\"updatedAt\":1538634568}\n\n"
+jiraBugToDoIssues: "data: {\"current\":3,\"id\":\"jiraBugToDoIssues\",\"updatedAt\":1538634568}\n\n"
+bigProject: "data: {\"currentResult\":\"SUCCESS\",\"lastResult\":\"SUCCESS\",\"timestamp\":1538603028016,\"value\":null,\"id\":\"bigProject\",\"updatedAt\":1538634567}\n\n"
+problemJob: "data: {\"currentResult\":\"FAILURE\",\"lastResult\":\"FAILURE\",\"timestamp\":1538576856234,\"value\":null,\"id\":\"problemJob\",\"updatedAt\":1538634567}\n\n"
